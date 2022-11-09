@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667570789 source:f:\pblm7\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
